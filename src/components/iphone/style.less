@@ -1,0 +1,111 @@
+@import '~style/helpers';
+
+.container {
+	display: flex;
+	flex-direction: column;
+	background-image: url("../../assets/backgrounds/morningBackground.png");
+	background-size: cover;
+	color: #fff;
+	width: 420px;
+	height: 736px;
+	text-align: center;
+	padding-top: 80px;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	margin-top: -25px;
+}
+
+.icons {
+	width: 50px;
+	hight: 50px;
+	margin-bottom: -13px;
+}
+
+.prevision {
+	text-align: center;
+	font-size: 21px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	padding-bottom:2px;
+}
+
+.advise {
+	text-align: center;
+	flex: 10;
+	font-size: 21px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: black;
+	opacity: 0.79;
+}
+
+.details {
+	flex: 4;
+}
+
+.city {
+	flex: 1;
+	font-size: 1.7em;
+	font-weight: 400;
+}
+
+.undercity {
+	flex: 1;
+	font-size: 1em;
+}
+
+.temperature {
+	flex: 2;
+	margin-top: 0;
+	font-size: 4.8em;
+	font-weight: 400;
+	letter-spacing: -3.5px;
+}
+
+.bottom {
+	width: 420px;
+	height: 63px;
+	border: 10px solid transparent;
+}
+
+img{	// hide the alt from the image
+	color:transparent;
+}
+
+.buttonleft {
+	border-radius: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	margin-right: 81px;
+	padding: 21px 29px;
+	background-position: center;
+	background-image: url("../../assets/icons/home.png");
+	background-repeat: no-repeat;
+	outline: none;
+}
+
+.buttoncenter {
+	border-radius: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	padding: 21px 29px;
+	background-position: center;
+	background-image: url("../../assets/icons/more.png");
+	background-repeat: no-repeat;
+	outline: none;
+}
+
+.buttonright {
+	border-radius: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	margin-left: 81px;
+	padding: 21px 29px;
+	background-position: center;
+	background-image: url("../../assets/icons/location.png");
+	background-repeat: no-repeat;
+	outline: none;
+}
