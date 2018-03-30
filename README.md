@@ -38,7 +38,7 @@ Screenshot
 
 Selected notification and Google Maps Api.
 
-<a href="https://ibb.co/bKef27"><img src="https://preview.ibb.co/jmAW9n/picture3.jpg" alt="Picture3" width="330" hight="700"  border="0"></a>
+<a href="https://ibb.co/bKef27"><img src="https://preview.ibb.co/jmAW9n/picture3.jpg" alt="Picture3" width="700" hight="1400"  border="0"></a>
 
 
 
