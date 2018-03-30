@@ -32,13 +32,13 @@ Live Preview
 Screenshot
 
 
-<a href="https://ibb.co/hehuUn"><img src="https://image.ibb.co/kbA3N7/Picture2.png" alt="Picture2" border="0"></a>
+<a href="https://ibb.co/hehuUn"><img src="https://image.ibb.co/kbA3N7/Picture2.png" alt="Picture2" width="330" hight="700" border="0"></a>
 
-<a href="https://ibb.co/mB42FS"><img src="https://image.ibb.co/hpiJpn/Picture1.png" alt="Picture1" border="0"></a>
+<a href="https://ibb.co/mB42FS"><img src="https://image.ibb.co/hpiJpn/Picture1.png" alt="Picture1" width="330" hight="700" border="0"></a>
 
 Selected notification and Google Maps Api.
 
-<a href="https://ibb.co/bKef27"><img src="https://preview.ibb.co/jmAW9n/picture3.jpg" alt="Picture3" border="0"></a>
+<a href="https://ibb.co/bKef27"><img src="https://preview.ibb.co/jmAW9n/picture3.jpg" alt="Picture3" width="330" hight="700"  border="0"></a>
 
 
 
