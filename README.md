@@ -3,7 +3,7 @@
 #  Weather App
 Implementation of a Weather app using PreactJS and CSS.
 The homepage has three different options. One is for the homepage, which displays the weather forecast for today as well as a recommendation of what clothing to wear for the prevalent conditions. The next option displays a five-day weather forecast, which shows only the day and the forecast temperature. The last option allows the user to select a different location and shows the weather forecast for that location.
-The weather is primarily built using PreactJS, a lightweight version of ReactJS. Styling is done using CSS.
+The weather app is primarily built using PreactJS, a lightweight version of ReactJS. Styling is done using CSS.
 Contents
 Technology Stack
 Requirements
